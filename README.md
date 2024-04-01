@@ -25,7 +25,7 @@ This is a Python script that generates Discord Nitro codes and checks their vali
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cherrylock/discord-nitro-generator.git
+   git clone https://github.com/Cherrylock/Discord-Nitro-Generator.git
    ```
 
 2. Navigate to the repository directory:
@@ -37,7 +37,7 @@ This is a Python script that generates Discord Nitro codes and checks their vali
 3. Run the script:
 
    ```bash
-   python generator.py
+   python nitrogen.py
    ```
 
 4. Wait for the script to find a valid Nitro code. Once found, it will stop automatically.
@@ -47,6 +47,8 @@ This is a Python script that generates Discord Nitro codes and checks their vali
 ## Disclaimer
 
 This script is provided for educational and informational purposes only. The use of this script may violate Discord's terms of service, and it may be considered unethical to use or distribute such tools. Use it at your own risk.
+
+Please note that the generation of legitimate Discord Nitro codes is probabilistic, with each attempt having a 1 in 62^16 chance of success. Users should not expect to obtain a valid Nitro code from every run of the script.
 
 ---
 
