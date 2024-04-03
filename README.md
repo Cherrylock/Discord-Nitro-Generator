@@ -1,5 +1,3 @@
-Certainly! Below is a simple README.md template for your GitHub repository:
-
 ---
 
 # Discord Nitro Code Generator
@@ -51,5 +49,3 @@ This script is provided for educational and informational purposes only. The use
 Please note that the generation of legitimate Discord Nitro codes is probabilistic, with each attempt having a 1 in 62^16 chance of success. Users should not expect to obtain a valid Nitro code from every run of the script.
 
 ---
-
-You can replace `yourusername` in the clone command with your GitHub username. Feel free to customize the README further as needed.
